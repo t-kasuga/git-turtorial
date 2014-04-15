@@ -1,3 +1,4 @@
-# Gitチュートリアル
+# Git turtorial
 
- - feature-A
+  - feature-A
+  - fix-B
